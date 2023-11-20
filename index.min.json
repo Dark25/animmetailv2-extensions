@@ -1571,6 +1571,27 @@
     ]
   },
   {
+    "name": "Animetail: Animeyt.es",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.animeytes",
+    "apk": "animetail-es.animeytes-v13.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "13.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AnimeYT.es",
+        "lang": "es",
+        "id": "2765997893095141045",
+        "baseUrl": "https://animeyt.es",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Animetail: Animeyt",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeyt",
     "apk": "animetail-es.animeyt-v13.8.apk",
