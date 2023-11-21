@@ -1592,6 +1592,27 @@
     ]
   },
   {
+    "name": "Animetail: Tiodonghua.com",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.tiodonghua",
+    "apk": "animetail-es.tiodonghua-v13.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "13.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tiodonghua.com",
+        "lang": "es",
+        "id": "2765997893095141046",
+        "baseUrl": "https://anime.tiodonghua.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Animetail: Animeyt",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeyt",
     "apk": "animetail-es.animeyt-v13.8.apk",
@@ -1707,10 +1728,10 @@
   {
     "name": "Animetail: EnNovelas",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.ennovelas",
-    "apk": "animetail-es.ennovelas-v13.6.apk",
+    "apk": "animetail-es.ennovelas-v13.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "13.6",
+    "code": 7,
+    "version": "13.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
